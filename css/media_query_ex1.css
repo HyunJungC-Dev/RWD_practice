@@ -1,0 +1,15 @@
+@media (max-width: 800px) {
+  body {
+    background-color: pink;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    background-color: cornflowerblue;
+  }
+}
+@media (min-width: 801px) {
+  body {
+    background-color: coral;
+  }
+}
